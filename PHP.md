@@ -27,3 +27,7 @@ https://regex101.com/r/RggbFM/1
     * CamelCase For Functions/Variables
     * DonotyRepeatYourself
     * Readable / Name Conversation / Readable name / Neat/cncise classes / Comments
+ 
+  
+https://github.com/Kernix13/markdown-cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
