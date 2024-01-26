@@ -26,3 +26,18 @@ Stylesheet
 https://medium.com/colin-buffum-portfolio/building-color-schemes-with-sass-948cf649b54b 
 
 https://blog.hubspot.com/marketing/examples-brand-style-guides
+
+
+
+css-aspect ratio/instrinic ratio
+https://jonathannicol.com/blog/2021/02/03/fixed-height-elements-with-an-intrinsic-ratio/
+https://tech.ovoenergy.com/intrinsic-ratios-in-css/ #:~:text=So%2C%20having%20an%20intrinsic%20ratio%20in%20this%20case,change%20size%20-%20but%20keep%20the%20same%20shape. 
+Intrinsic ratios in css (ovoenergy.com) 
+
+
+
+Fixed-height elements with an intrinsic ratio - Jonathan Nicol 
+- https://codepen.io/jnicol/pen/eYBpKKg (Fixed-height elements with an intrinsic ratio (codepen.io))
+
+- https://codepen.io/chriscoyier/pen/BZNoev 
+- https://css-tricks.com/aspect-ratio-boxes/ 
