@@ -7,3 +7,7 @@
 [SSH Keys](https://www.youtube.com/watch?v=dPAw4opzN9g)
 
 [Linux Crash Course - Public Key Authentication - Learn Linux TV](https://www.youtube.com/watch?v=bfwfRCCFTVI)
+
+[SSH Manaul Page](https://www.openssh.com/manual.html)
+
+[How SSH works - Medium](https://medium.com/quick-code/how-ssh-works-9349293cdf61)
