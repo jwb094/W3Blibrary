@@ -11,3 +11,5 @@
 [SSH Manaul Page](https://www.openssh.com/manual.html)
 
 [How SSH works - Medium](https://medium.com/quick-code/how-ssh-works-9349293cdf61)
+
+[An intro to SSH - Medium](https://medium.com/@zemotacqy/an-introduction-to-ssh-556f2b646492)
