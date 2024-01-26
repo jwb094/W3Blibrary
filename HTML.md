@@ -33,3 +33,16 @@ https://github.com/rxhanson/Rectangle
 https://medium.com/swlh/learn-the-scss-sass-basics-in-5-minutes-73002653b443
 
 http://pointnorth.io/#north 
+
+
+Stacked Images
+
+https://bricampgomez.com/blog/how-to-overlap-images-in-css/ 
+https://codepen.io/brianacamp/pen/QWWOwdM
+
+
+Flexbox
+display:inline-flex;
+https://tympanus.net/codrops/css_reference/flexbox/
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
