@@ -4,3 +4,6 @@
 
 [How SSH authentication works - Medium](https://medium.com/@kutsav/how-ssh-authentication-works-a62bb3d47202)
  
+[SSH Keys](https://www.youtube.com/watch?v=dPAw4opzN9g)
+
+[Linux Crash Course - Public Key Authentication - Learn Linux TV](https://www.youtube.com/watch?v=bfwfRCCFTVI)
