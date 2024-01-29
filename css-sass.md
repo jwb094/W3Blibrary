@@ -46,3 +46,16 @@ Fixed-height elements with an intrinsic ratio - Jonathan Nicol
 
 - https://codepen.io/chriscoyier/pen/BZNoev 
 - https://css-tricks.com/aspect-ratio-boxes/ 
+
+
+## StyleGuide / Design System
+
+### Style Guide
+[typescale](https://typescale.com/)
+[Brad frost - The design system Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
+[Brad Frost - style guides](https://bradfrost.com/blog/post/style-guides/)
+
+### Design System 
+[Figma Community- Design systems](https://www.designsystems.com/open-design-systems/)
+[bradfrost - atomicdesign](https://atomicdesign.bradfrost.com/chapter-1/)
+[Gov Uk - style guide - component](https://design-system.service.gov.uk/styles/typography/)
