@@ -8,11 +8,22 @@ CSS/SCSS/SASS cheats sheet
 * [Markdown Live Preview](https://markdownlivepreview.com/).
 * [Markdown Live Preview](https://markdownlivepreview.com/).
 * [Markdown Live Preview](https://markdownlivepreview.com/).
+
+
+#### CSS Grid
+[Grid - layout](https://grid.layoutit.com/) 
+
+[joshwcomeau - interactive guide to grid ](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) 
+
+[cssgrid-generator](https://cssgrid-generator.netlify.app/ )
+
+
+
  
 ## SASS/CSS
 * (https://thehub.net/cheatsheet/doku.php#working_with_files_and_sets ).
-* (https://medium.com/swlh/learn-the-scss-sass-basics-in-5-minutes-73002653b443).
-* (https://www.freecodecamp.org/news/the-beginners-guide-to-sass/).
+* [Medium  - learn sass /scss](https://medium.com/swlh/learn-the-scss-sass-basics-in-5-minutes-73002653b443).
+* [freecodecamp - sass for begineers](https://www.freecodecamp.org/news/the-beginners-guide-to-sass/).
 
 Sass
  
