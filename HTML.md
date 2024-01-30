@@ -1,5 +1,6 @@
 
 
+#### LEarn the core fundamentals
 https://web.dev/learn/design/
 
 https://web.dev/learn/forms/ 
@@ -12,6 +13,10 @@ https://getwaves.io/
 
 https://web.dev/learn-images/ 
 
+
+### Naming conventions/methodologies
+
+[BEM 101- css tricks](https://css-tricks.com/bem-101/)
 
 #### Accesssbility / Validation
 
