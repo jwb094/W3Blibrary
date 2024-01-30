@@ -2,7 +2,15 @@ Linux
 
 [Linuxjourney.com/ ](https://linuxjourney.com/l)
 
-https://dashdash.io/
+
+
+
+### basic command helpful links for examples of using command
+
+[find - 10 ways to use the Linux find command](https://www.redhat.com/sysadmin/linux-find-command)
+
+[man - manual command manual pages](https://dashdash.io/)
+[]()
 
 ## VIM
 
