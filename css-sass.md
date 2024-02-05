@@ -1,13 +1,15 @@
 CSS/SCSS/SASS cheats sheet
+* [Markdown Live Preview](https://markdownlivepreview.com/).
+* [Markdown Live Preview](https://markdownlivepreview.com/).
+* [Markdown Live Preview](https://markdownlivepreview.com/).
+* [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## CSS-SASS-SCSS
 
-## CSSS
-* [Markdown Live Preview](https://markdownlivepreview.com/).
-* [Markdown Live Preview](https://markdownlivepreview.com/).
-* [Markdown Live Preview](https://markdownlivepreview.com/).
-* [Markdown Live Preview](https://markdownlivepreview.com/).
-* [Markdown Live Preview](https://markdownlivepreview.com/).
+## CSS Methodolgies
+* [object-oriented CSS](http://oocss.org/)
+* [SMACSS](https://smacss.com/book/type-layout/).
+* [BEM](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 
 #### CSS Grid
