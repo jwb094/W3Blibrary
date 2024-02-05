@@ -32,3 +32,9 @@
 
 [Inclusive Components -A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.](https://inclusive-components.design/#components)
 
+
+
+[Options · Babel - Primary options](https://babeljs.io/docs/options#targets)
+
+[Javascript - Modules, introduction](https://javascript.info/modules-intro)
+
