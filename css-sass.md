@@ -35,6 +35,18 @@ CSS/SCSS/SASS cheats sheet
 
 [CSS Entries - Codrops](https://tympanus.net/codrops/css_reference/)
 
+
+
+[Thinking about Broad Classes of Utility-like Functions - LessWrong :Here's some thoughts I've had about utility maximizers, heavily influenced by ideas like FDT and Morality as Fixed Computation. …](https://www.lesswrong.com/posts/gnF2vwpanCu6esGQr/thinking-about-broad-classes-of-utility-like-functions)
+
+[About normalize.css – Nicolas Gallagher : A small CSS library to make browser defaults more consistent](https://nicolasgallagher.com/about-normalize-css/)
+
+[meyerweb.com - The web home of Eric A. Meyer, CSS guy; and his wife Kathryn, doctor of nursing.](https://meyerweb.com/eric/tools/css/reset/)
+
+
+
+
+
 ## SASS/CSS
 * (https://thehub.net/cheatsheet/doku.php#working_with_files_and_sets ).
 * [Medium  - learn sass /scss](https://medium.com/swlh/learn-the-scss-sass-basics-in-5-minutes-73002653b443).
