@@ -35,6 +35,15 @@ CSS/SCSS/SASS cheats sheet
 
 [CSS Entries - Codrops](https://tympanus.net/codrops/css_reference/)
 
+[An Interactive Guide to Keyframe Animations :CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use the...](https://www.joshwcomeau.com/animation/keyframe-animations/)
+
+[A Continuous Image Ticker Built With Pure CSS – Nolte :When working on a continuous image ticker slider for a new project I was surprised to find no JavaScript slider libraries which support this feature. After some back and forth with my designer on s...](https://nolte.io/a-continuous-image-ticker-built-with-pure-css)
+
+[Practical CSS Scroll Snapping | CSS-Tricks : CSS scroll snapping allows you to lock the viewport to certain elements or locations after a user has finished scrolling. It’s great for building interactions](https://css-tricks.com/practical-css-scroll-snapping/)
+
+
+[box-sizing - CSS: Cascading Style Sheets | MDN : The box-sizing CSS property sets how the total width and height of an element is calculated.](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+
 
 
 [Thinking about Broad Classes of Utility-like Functions - LessWrong :Here's some thoughts I've had about utility maximizers, heavily influenced by ideas like FDT and Morality as Fixed Computation. …](https://www.lesswrong.com/posts/gnF2vwpanCu6esGQr/thinking-about-broad-classes-of-utility-like-functions)
