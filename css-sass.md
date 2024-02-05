@@ -79,8 +79,6 @@ https://blog.hubspot.com/marketing/examples-brand-style-guides
  
 
 
-
-
 css-aspect ratio/instrinic ratio
 https://jonathannicol.com/blog/2021/02/03/fixed-height-elements-with-an-intrinsic-ratio/
 https://tech.ovoenergy.com/intrinsic-ratios-in-css/ #:~:text=So%2C%20having%20an%20intrinsic%20ratio%20in%20this%20case,change%20size%20-%20but%20keep%20the%20same%20shape. 
