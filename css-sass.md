@@ -1,8 +1,6 @@
 CSS/SCSS/SASS cheats sheet
 * [Markdown Live Preview](https://markdownlivepreview.com/).
-* [Markdown Live Preview](https://markdownlivepreview.com/).
-* [Markdown Live Preview](https://markdownlivepreview.com/).
-* [Markdown Live Preview](https://markdownlivepreview.com/).
+
 
 ## CSS-SASS-SCSS
 
@@ -11,6 +9,8 @@ CSS/SCSS/SASS cheats sheet
 * [SMACSS](https://smacss.com/book/type-layout/).
 * [BEM](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
+### CSS /SASS min -max font size
+* [Min-Max Value interpolationw](https://min-max-calculator.9elements.com/).
 
 #### CSS Grid
 [Grid - layout](https://grid.layoutit.com/) 
