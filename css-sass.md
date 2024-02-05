@@ -4,6 +4,61 @@ CSS/SCSS/SASS cheats sheet
 
 ## CSS-SASS-SCSS
 
+### CSS fundamentals
+[Learn css](https://web.dev/learn/css/)
+
+#### CSS -functions - animations
+[Easing function cheat sheet](https://easings.net/)
+[Easing function cheat sheet 2](https://easings.net/#easeInOutCubic)
+
+
+
+### css
+
+[Purgecss](https://purgecss.com/getting-started.html) 
+[Responsive Breakpoints Generator : The Responsive Image Breakpoints Generator efficiently analyzes each hi-res image and finds the best dimensions for embedding in your website](https://www.responsivebreakpoints.com/)
+
+
+[The Hero Generator -Generates the code for a website header. I've had to implement the same hero for several years now, so like a good lazy programmer, I figured I'd automate it.](https://hero-generator.netlify.app/)
+
+
+[Get Waves – Create SVG waves for your next design :A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!](https://getwaves.io/)
+
+
+[Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
+
+
+[Animating with Clip-Path | CSS-Tricks : clip-path is one of those CSS properties we generally know is there but might not reach for often for whatever reason. It’s a little intimidating in the sense](https://css-tricks.com/animating-with-clip-path/)
+
+
+[Flexbox - Codrops](https://tympanus.net/codrops/css_reference/flexbox/)
+
+[CSS Entries - Codrops](https://tympanus.net/codrops/css_reference/)
+
+## SASS/CSS
+* (https://thehub.net/cheatsheet/doku.php#working_with_files_and_sets ).
+* [Medium  - learn sass /scss](https://medium.com/swlh/learn-the-scss-sass-basics-in-5-minutes-73002653b443).
+* [freecodecamp - sass for begineers](https://www.freecodecamp.org/news/the-beginners-guide-to-sass/).
+* [sass - media queries function](https://github.com/sass-mq/sass-mq)
+
+#### Partials
+https://medium.com/@timodwhit/partial-to-partials-bof-recap-70b703ee968c
+
+####  Functions
+
+####  Modules
+https://css-tricks.com/introducing-sass-modules/ 
+
+
+
+Stylesheet
+https://medium.com/colin-buffum-portfolio/building-color-schemes-with-sass-948cf649b54b 
+
+https://blog.hubspot.com/marketing/examples-brand-style-guides
+
+
+
+
 ## CSS Methodolgies
 * [object-oriented CSS](http://oocss.org/)
 * [SMACSS](https://smacss.com/book/type-layout/).
@@ -22,28 +77,7 @@ CSS/SCSS/SASS cheats sheet
 
 
  
-## SASS/CSS
-* (https://thehub.net/cheatsheet/doku.php#working_with_files_and_sets ).
-* [Medium  - learn sass /scss](https://medium.com/swlh/learn-the-scss-sass-basics-in-5-minutes-73002653b443).
-* [freecodecamp - sass for begineers](https://www.freecodecamp.org/news/the-beginners-guide-to-sass/).
 
-Sass
- 
-
-Partials
-https://medium.com/@timodwhit/partial-to-partials-bof-recap-70b703ee968c
-
-Functions
-
-Modules
-https://css-tricks.com/introducing-sass-modules/ 
-
-
-
-Stylesheet
-https://medium.com/colin-buffum-portfolio/building-color-schemes-with-sass-948cf649b54b 
-
-https://blog.hubspot.com/marketing/examples-brand-style-guides
 
 
 
