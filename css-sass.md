@@ -74,7 +74,11 @@ https://blog.hubspot.com/marketing/examples-brand-style-guides
 
 [cssgrid-generator](https://cssgrid-generator.netlify.app/ )
 
+#### Flexbox
+display:inline-flex;
+https://tympanus.net/codrops/css_reference/flexbox/
 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
  
 
