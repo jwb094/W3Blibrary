@@ -63,3 +63,20 @@ https://tympanus.net/codrops/css_reference/flexbox/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
+
+[Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN : In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rat...](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_elements)
+
+
+[HTML elements reference - HTML: HyperText Markup Language | MDN:This page lists all the HTML elements, which are created using tags.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+
+
+[GitHub - cferdinandi/houdini: A simple, accessible show-and-hide/accordion script.:A simple, accessible show-and-hide/accordion script. - GitHub - cferdinandi/houdini: A simple, accessible show-and-hide/accordion script.](https://github.com/cferdinandi/houdini)
+
+
+
+[Houdini: Basic Demo](https://codepen.io/cferdinandi/pen/JeByZQ)
+...
+
+[Houdini: Accordion](https://codepen.io/cferdinandi/pen/PxBKxp)
+
