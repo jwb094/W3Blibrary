@@ -46,11 +46,11 @@ CSS/SCSS/SASS cheats sheet
 
 
 
-[Thinking about Broad Classes of Utility-like Functions - LessWrong :Here's some thoughts I've had about utility maximizers, heavily influenced by ideas like FDT and Morality as Fixed Computation. …](https://www.lesswrong.com/posts/gnF2vwpanCu6esGQr/thinking-about-broad-classes-of-utility-like-functions)
+* [Thinking about Broad Classes of Utility-like Functions - LessWrong :Here's some thoughts I've had about utility maximizers, heavily influenced by ideas like FDT and Morality as Fixed Computation. …](https://www.lesswrong.com/posts/gnF2vwpanCu6esGQr/thinking-about-broad-classes-of-utility-like-functions)
 
-[About normalize.css – Nicolas Gallagher : A small CSS library to make browser defaults more consistent](https://nicolasgallagher.com/about-normalize-css/)
+* [About normalize.css – Nicolas Gallagher : A small CSS library to make browser defaults more consistent](https://nicolasgallagher.com/about-normalize-css/)
 
-[meyerweb.com - The web home of Eric A. Meyer, CSS guy; and his wife Kathryn, doctor of nursing.](https://meyerweb.com/eric/tools/css/reset/)
+* [meyerweb.com - The web home of Eric A. Meyer, CSS guy; and his wife Kathryn, doctor of nursing.](https://meyerweb.com/eric/tools/css/reset/)
 
 
 
@@ -70,7 +70,10 @@ https://medium.com/@timodwhit/partial-to-partials-bof-recap-70b703ee968c
 ####  Modules
 https://css-tricks.com/introducing-sass-modules/ 
 
-
+#### @use/@forward(/@import)
+* [use / forward usage](https://www.spindogs.co.uk/blog/how-developers-can-apply-use-and-forward-rules-in-sass/#:~:text=The%20SASS%20%40forward%20rule%20serves,and%20maintaining%20a%20modular%20codebase.)
+* [The Developer Journal of KJ Monahan - Understanding Sass @use and @forward](https://kjmonahan.dev/sass-use-vs-forward/)
+* [ KentWynn - The uses of @use, @forward & @import in Sass ](https://kentwynn.com/frontend-languages/css/the-uses-of-use-forward-import-in-sass/kentwynn/22/12/2022/)
 
 Stylesheet
 https://medium.com/colin-buffum-portfolio/building-color-schemes-with-sass-948cf649b54b 
