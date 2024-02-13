@@ -15,34 +15,34 @@ CSS/SCSS/SASS cheats sheet
 
 ### css
 
-[Purgecss](https://purgecss.com/getting-started.html) 
-[Responsive Breakpoints Generator : The Responsive Image Breakpoints Generator efficiently analyzes each hi-res image and finds the best dimensions for embedding in your website](https://www.responsivebreakpoints.com/)
+* [Purgecss](https://purgecss.com/getting-started.html) 
+* [Responsive Breakpoints Generator : The Responsive Image Breakpoints Generator efficiently analyzes each hi-res image and finds the best dimensions for embedding in your website](https://www.responsivebreakpoints.com/)
 
 
-[The Hero Generator -Generates the code for a website header. I've had to implement the same hero for several years now, so like a good lazy programmer, I figured I'd automate it.](https://hero-generator.netlify.app/)
+* [The Hero Generator -Generates the code for a website header. I've had to implement the same hero for several years now, so like a good lazy programmer, I figured I'd automate it.](https://hero-generator.netlify.app/)
 
 
-[Get Waves – Create SVG waves for your next design :A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!](https://getwaves.io/)
+* [Get Waves – Create SVG waves for your next design :A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!](https://getwaves.io/)
 
 
-[Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
+* [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/)
 
 
-[Animating with Clip-Path | CSS-Tricks : clip-path is one of those CSS properties we generally know is there but might not reach for often for whatever reason. It’s a little intimidating in the sense](https://css-tricks.com/animating-with-clip-path/)
+* [Animating with Clip-Path | CSS-Tricks : clip-path is one of those CSS properties we generally know is there but might not reach for often for whatever reason. It’s a little intimidating in the sense](https://css-tricks.com/animating-with-clip-path/)
 
 
-[Flexbox - Codrops](https://tympanus.net/codrops/css_reference/flexbox/)
+* [Flexbox - Codrops](https://tympanus.net/codrops/css_reference/flexbox/)
 
-[CSS Entries - Codrops](https://tympanus.net/codrops/css_reference/)
+* [CSS Entries - Codrops](https://tympanus.net/codrops/css_reference/)
 
-[An Interactive Guide to Keyframe Animations :CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use the...](https://www.joshwcomeau.com/animation/keyframe-animations/)
+[* An Interactive Guide to Keyframe Animations :CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use the...](https://www.joshwcomeau.com/animation/keyframe-animations/)
 
-[A Continuous Image Ticker Built With Pure CSS – Nolte :When working on a continuous image ticker slider for a new project I was surprised to find no JavaScript slider libraries which support this feature. After some back and forth with my designer on s...](https://nolte.io/a-continuous-image-ticker-built-with-pure-css)
+* [A Continuous Image Ticker Built With Pure CSS – Nolte :When working on a continuous image ticker slider for a new project I was surprised to find no JavaScript slider libraries which support this feature. After some back and forth with my designer on s...](https://nolte.io/a-continuous-image-ticker-built-with-pure-css)
 
-[Practical CSS Scroll Snapping | CSS-Tricks : CSS scroll snapping allows you to lock the viewport to certain elements or locations after a user has finished scrolling. It’s great for building interactions](https://css-tricks.com/practical-css-scroll-snapping/)
+* [Practical CSS Scroll Snapping | CSS-Tricks : CSS scroll snapping allows you to lock the viewport to certain elements or locations after a user has finished scrolling. It’s great for building interactions](https://css-tricks.com/practical-css-scroll-snapping/)
 
 
-[box-sizing - CSS: Cascading Style Sheets | MDN : The box-sizing CSS property sets how the total width and height of an element is calculated.](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+* [box-sizing - CSS: Cascading Style Sheets | MDN : The box-sizing CSS property sets how the total width and height of an element is calculated.](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 
 
 
@@ -89,17 +89,17 @@ https://blog.hubspot.com/marketing/examples-brand-style-guides
 * [Min-Max Value interpolationw](https://min-max-calculator.9elements.com/).
 
 #### CSS Grid
-[Grid - layout](https://grid.layoutit.com/) 
+* [Grid - layout](https://grid.layoutit.com/) 
 
-[joshwcomeau - interactive guide to grid ](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) 
+* [joshwcomeau - interactive guide to grid ](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) 
 
-[cssgrid-generator](https://cssgrid-generator.netlify.app/ )
+*  [cssgrid-generator](https://cssgrid-generator.netlify.app/ )
 
 #### Flexbox
 display:inline-flex;
-https://tympanus.net/codrops/css_reference/flexbox/
+* [Css reference for flexbox](https://tympanus.net/codrops/css_reference/flexbox/)
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* [csstricks Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
  
 
@@ -121,11 +121,13 @@ Fixed-height elements with an intrinsic ratio - Jonathan Nicol
 ## StyleGuide / Design System
 
 ### Style Guide
-[typescale](https://typescale.com/)
-[Brad frost - The design system Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
-[Brad Frost - style guides](https://bradfrost.com/blog/post/style-guides/)
+* [typescale](https://typescale.com/)
+* [Brad frost - The design system Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
+* [Brad Frost - style guides](https://bradfrost.com/blog/post/style-guides/)
 
 ### Design System 
-[Figma Community- Design systems](https://www.designsystems.com/open-design-systems/)
-[bradfrost - atomicdesign](https://atomicdesign.bradfrost.com/chapter-1/)
-[Gov Uk - style guide - component](https://design-system.service.gov.uk/styles/typography/)
+* [Figma Community- Design systems](https://www.designsystems.com/open-design-systems/)
+* [bradfrost - atomicdesign](https://atomicdesign.bradfrost.com/chapter-1/)
+* [Gov Uk - style guide - component](https://design-system.service.gov.uk/styles/typography/)
+* [InvisionApp - A comprehensive guide to design systems ](https://www.invisionapp.com/inside-design/guide-to-design-systems/).
+* [DesignSystems](https://www.designsystems.com/)
