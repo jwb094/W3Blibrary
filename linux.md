@@ -37,3 +37,7 @@ softwareupdate --list
 * [devhints - vim cheat sheet](https://devhints.io/vim)
 * [openvim - vim online playground](https://www.openvim.com/)
 [learn vim fast - vim online playground with tutorials](https://vim.is/)
+
+STDIN / STDOUT / STDERR
+
+#[GNU/Linux 101: What's stdin, stdout and stderr?](https://imreyesjorge.hashnode.dev/g101-whats-stdin-stdout-and-stderr)
