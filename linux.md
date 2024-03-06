@@ -38,6 +38,16 @@ softwareupdate --list
 * [openvim - vim online playground](https://www.openvim.com/)
 [learn vim fast - vim online playground with tutorials](https://vim.is/)
 
-STDIN / STDOUT / STDERR
+## dSTDIN / STDOUT / STDERR
 
-#[GNU/Linux 101: What's stdin, stdout and stderr?](https://imreyesjorge.hashnode.dev/g101-whats-stdin-stdout-and-stderr)
+* [GNU/Linux 101: What's stdin, stdout and stderr?](https://imreyesjorge.hashnode.dev/g101-whats-stdin-stdout-and-stderr)
+
+
+## FIND
+[Medium - find](https://hopeness.medium.com/master-the-find-command-a-comprehensive-guide-6604d0abc535)
+[freecodecamp - How to Search for Files from the Linux Command Line](https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/)
+
+```
+ find ~/Web_Dev/Projects -type f -name "*.sh"
+find . -type f -name "*.txt" -exec cat {} \; > practiceMakePerfect_findcmdtest.txt
+```
