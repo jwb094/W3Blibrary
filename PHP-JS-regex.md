@@ -2,7 +2,11 @@ PHP/JS - Regex explained
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6
 
+https://blog.devgenius.io/getting-to-grips-with-regular-expressions-regex-eaaa25a3344b
+https://mohasin-dev.medium.com/regex-regular-expression-in-php-you-should-know-f14ee1606b90
 
+
+https://regex101.com/r/RggbFM/1
 
 RedirectMatch 301 
 ^/(why-join|about-us|our-locations|our-stories|vacancies)/?(.*)?$ /
