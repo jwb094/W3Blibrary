@@ -1,12 +1,14 @@
 Markdown
 
 
-https://markdownlivepreview.com/
+[markdownlivepreview](https://markdownlivepreview.com/)
 
-https://stackedit.io/app#
+[stackedit](https://stackedit.io/app#)
 
-https://pandao.github.io/editor.md/en.html 
+[editor.md](https://pandao.github.io/editor.md/en.html) 
 
-https://www.markdownguide.org/basic-syntax/
+[Markdown - basic syntax](https://www.markdownguide.org/basic-syntax/)
 
-https://dillinger.io/. 
+[dillinger](https://dillinger.io/.)
+  
+[Github - Md cheatsheet ](https://github.com/Kernix13/markdown-cheatsheet)
