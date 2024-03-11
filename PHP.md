@@ -1,19 +1,9 @@
 PHP / Config
 
-.htaccess & Regex
-
-https://htaccess.madewithlove.com/#top 
-
-https://www.hongkiat.com/blog/guide-to-htaccess/ 
-
-https://httpd.apache.org/docs/2.4/rewrite/intro.html 
-
-https://blog.devgenius.io/getting-to-grips-with-regular-expressions-regex-eaaa25a3344b
-https://mohasin-dev.medium.com/regex-regular-expression-in-php-you-should-know-f14ee1606b90
+(https://gist.github.com/ryansechrest/8138375)[PHP coding style]
 
 
-https://regex101.com/r/RggbFM/1
-
+helpfups tips for PHP
 
 * Try not use Else in if statement\
 * Functiuons should only do one thing
@@ -25,9 +15,17 @@ https://regex101.com/r/RggbFM/1
     * Lining for key-values
     * Identation
     * CamelCase For Functions/Variables
-    * DonotyRepeatYourself
+    * DonotRepeatYourself
     * Readable / Name Conversation / Readable name / Neat/cncise classes / Comments
  
-  
-https://github.com/Kernix13/markdown-cheatsheet
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+
+
+
+
+.htaccess
+
+https://htaccess.madewithlove.com/#top 
+
+https://www.hongkiat.com/blog/guide-to-htaccess/ 
+
+https://httpd.apache.org/docs/2.4/rewrite/intro.html 
