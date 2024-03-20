@@ -1,7 +1,9 @@
 PHP / Config
 
-(https://gist.github.com/ryansechrest/8138375)[PHP coding style]
+#### Coding Practices/Style/Standards
 
+[PHP coding style](https://gist.github.com/ryansechrest/8138375)
+[PHP Programming Best Practices and Coding Styles - Medium](https://medium.com/techlaboratory/php-programming-best-practices-and-coding-styles-e43234446fd3)
 
 helpfups tips for PHP
 
