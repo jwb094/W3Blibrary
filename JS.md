@@ -33,6 +33,10 @@
 [Inclusive Components -A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.](https://inclusive-components.design/#components)
 
 
+### Coding Style/Practice
+
+[dmitripavlutin - The Art of Writing Small and Plain Functions](https://dmitripavlutin.com/the-art-of-writing-small-and-plain-functions/)
+
 
 [Options · Babel - Primary options](https://babeljs.io/docs/options#targets)
 
