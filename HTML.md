@@ -58,6 +58,8 @@ https://codepen.io/brianacamp/pen/QWWOwdM
 
 
 [Online SVG creator](https://editsvgcode.com/)
+[SVGOMG](https://svgomg.net/)
+[SVGsprite](https://svgsprit.es/)
 
 #### Flexbox
 display:inline-flex;
