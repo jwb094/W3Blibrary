@@ -19,17 +19,19 @@
 
 
 #### Learn the core fundamentals
-https://web.dev/learn/design/
+[WebDev  - Learn ](https://web.dev/learn)
+[ WebDev  - Design ](https://web.dev/learn/design/)
 
-https://web.dev/learn/forms/ 
+[ WebDev  -  Forms ](https://web.dev/learn/forms/) 
 
-https://web.dev/learn/html/ 
+[WebDev  - HTML ](https://web.dev/learn/html/) 
 
-https://css-tricks.com/animating-with-clip-path/
+[WebDev  - IMAGES](https://web.dev/learn-images/) 
 
-https://getwaves.io/ 
+[ CSSTRICKS - CLIP PATH ](https://css-tricks.com/animating-with-clip-path/)
 
-https://web.dev/learn-images/ 
+[GETWAVES](https://getwaves.io/ )
+
 
 
 ### Naming conventions/methodologies
@@ -40,20 +42,25 @@ https://web.dev/learn-images/
 
 #### Accesssbility / Validation
 
-https://www.accessibility-developer-guide.com/knowledge/keyboard-only/browsing-websites/ - Accessibility -Navigation
+[]https://www.accessibility-developer-guide.com/knowledge/keyboard-only/browsing-websites/ - Accessibility -Navigation
 
-https://validator.w3.org/
+[W3Org - HTML Validator](https://validator.w3.org/)
 
-https://fakeimg.pl/ 
+[]http://pointnorth.io/#north 
 
 
-http://pointnorth.io/#north 
+[WEBAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/)
+
+[FAKEIMG](https://fakeimg.pl/)
+
+
+
 
 
 #### Stacked Images
 
-https://bricampgomez.com/blog/how-to-overlap-images-in-css/ 
-https://codepen.io/brianacamp/pen/QWWOwdM
+[]https://bricampgomez.com/blog/how-to-overlap-images-in-css/ 
+[]https://codepen.io/brianacamp/pen/QWWOwdM
 
 
 
@@ -62,10 +69,10 @@ https://codepen.io/brianacamp/pen/QWWOwdM
 [SVGsprite](https://svgsprit.es/)
 
 #### Flexbox
-display:inline-flex;
-https://tympanus.net/codrops/css_reference/flexbox/
+[]display:inline-flex;
+[]https://tympanus.net/codrops/css_reference/flexbox/
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[CSSTricks A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 
@@ -85,3 +92,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 [Houdini: Accordion](https://codepen.io/cferdinandi/pen/PxBKxp)
 
+
+[Free Font Libaray - Fontshare](https://www.fontshare.com/)
+
+[fontawesomeicons - free icons](https://fontawesomeicons.com/svg/icons)
