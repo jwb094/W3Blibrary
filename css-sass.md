@@ -53,7 +53,7 @@ CSS/SCSS/SASS cheats sheet
 * [meyerweb.com - The web home of Eric A. Meyer, CSS guy; and his wife Kathryn, doctor of nursing.](https://meyerweb.com/eric/tools/css/reset/)
 
 
-
+[blog.logrocket -CSS lobotomized owl selector: A modern guide](https://blog.logrocket.com/css-lobotomized-owl-selector-modern-guide/#using-child-combinator)
 
 
 ## SASS/CSS
@@ -117,8 +117,8 @@ Intrinsic ratios in css (ovoenergy.com)
 Fixed-height elements with an intrinsic ratio - Jonathan Nicol 
 - https://codepen.io/jnicol/pen/eYBpKKg (Fixed-height elements with an intrinsic ratio (codepen.io))
 
-- https://codepen.io/chriscoyier/pen/BZNoev 
-- https://css-tricks.com/aspect-ratio-boxes/ 
+- [Codepen chriscoyier - Simple Aspect Ratio Box](https://codepen.io/chriscoyier/pen/BZNoev) 
+- [CSS Tricks - Simple Aspect Ratio Box](https://css-tricks.com/aspect-ratio-boxes/) 
 
 
 ## StyleGuide / Design System
