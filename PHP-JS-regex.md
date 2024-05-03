@@ -6,11 +6,13 @@ https://blog.devgenius.io/getting-to-grips-with-regular-expressions-regex-eaaa25
 https://mohasin-dev.medium.com/regex-regular-expression-in-php-you-should-know-f14ee1606b90
 
 
+https://htaccess.madewithlove.com/
+
 https://regex101.com/r/RggbFM/1
 
 RedirectMatch 301 
 ^/(why-join|about-us|our-locations|our-stories|vacancies)/?(.*)?$ /
-
+ 
 
 ^ = beginning of string = https://nameofsite.com
 
