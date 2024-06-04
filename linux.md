@@ -29,6 +29,9 @@ source ~/.zshrc
 
 softwareupdate --list
 ```
+* [travis.media - Top 12 Oh My Zsh Themes For Productive Developers](https://travis.media/top-12-oh-my-zsh-themes-for-productive-developers/)
+* [github - example of .zshrc configuration file](https://gist.github.com/zanshin/1142739)
+
 #### helpful links
 
 * [Linux Journey - Advanced Text Fu](https://linuxjourney.com/lesson/regular-expressions-regex)
