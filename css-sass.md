@@ -91,6 +91,9 @@ https://blog.hubspot.com/marketing/examples-brand-style-guides
 ### CSS /SASS min -max font size
 * [Min-Max Value interpolationw](https://min-max-calculator.9elements.com/).
 
+### Web Font
+* [FontShare](https://www.fontshare.com/)
+
 #### CSS Grid
 * [Grid - layout](https://grid.layoutit.com/) 
 
