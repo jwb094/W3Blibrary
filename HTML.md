@@ -19,20 +19,17 @@
 
 
 #### Learn the core fundamentals
+
+
 [WebDev  - Learn ](https://web.dev/learn)
-[ WebDev  - Design ](https://web.dev/learn/design/)
-
-[ WebDev  -  Forms ](https://web.dev/learn/forms/) 
-
+[WebDev  - Design ](https://web.dev/learn/design/)
+[WebDev  -  Forms ](https://web.dev/learn/forms/) 
 [WebDev  - HTML ](https://web.dev/learn/html/) 
-
 [WebDev  - IMAGES](https://web.dev/learn-images/) 
-
-[ CSSTRICKS - CLIP PATH ](https://css-tricks.com/animating-with-clip-path/)
+[CSSTRICKS - CLIP PATH ](https://css-tricks.com/animating-with-clip-path/)
 
 [GETWAVES](https://getwaves.io/ )
-
-
+[YTube Channel-Dave Gray: CSS Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit)
 
 ### Naming conventions/methodologies
 
@@ -46,7 +43,9 @@
 
 [W3Org - HTML Validator](https://validator.w3.org/)
 
-[]http://pointnorth.io/#north 
+[Img Alt Text - Good Examples](https://accessibility.huit.harvard.edu/describe-content-images#:~:text=Alt%20text%20for%20icons%20should,%22Print%20the%20Event%20Schedule.%22)
+
+[PointNorth]http://pointnorth.io/#north 
 
 
 [WEBAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/)
@@ -58,8 +57,9 @@
 ### Images - Responsive + Aspect Ratio
 [Responsive Break points](https://responsivebreakpoints.com/)
 [Ratio buddy](https://ratiobuddy.com/)
-
-
+[Image Placeholders| Generator](https://loremipsum.io/21-of-the-best-placeholder-image-generators/)
+[Image Cropper](https://www.iloveimg.com/crop-image)
+[YTube Channel-Dave Gray = BackgroundImages & Reponsive Images](https://www.youtube.com/watch?v=cLyzBfXI0I0)
 #### Stacked Images
 
 []https://bricampgomez.com/blog/how-to-overlap-images-in-css/ 
@@ -99,3 +99,9 @@
 [Free Font Libaray - Fontshare](https://www.fontshare.com/)
 
 [fontawesomeicons - free icons](https://fontawesomeicons.com/svg/icons)
+
+
+# Tutorials On Responsive Imgs
+
+[Responsive and Accessible Navigation (HTML, CSS, Vanilla JS) - YTC= andrew Ladd](https://www.youtube.com/watch?v=IdZ-ZHLyEHs)
+[Styling Images As Polaroids With CSS | HTML, CSS Tutorial - YTC = Coding Artist](https://www.youtube.com/watch?v=XqVfFTQWkKA)
