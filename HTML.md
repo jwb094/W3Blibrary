@@ -52,6 +52,12 @@
 
 [FAKEIMG](https://fakeimg.pl/)
 
+[Pa11y - npm](https://www.npmjs.com/package/pa11y)
+
+[Pa11y - Github](https://github.com/pa11y/pa11y)
+
+
+[Source Medium - Author- Nick George Considered harmful: do not use disabled or readonly input attributes as default](https://medium.com/@izzmo/anti-pattern-using-disabled-or-read-only-for-form-input-e2c24c669f5b)
 
 
 ### Images - Responsive + Aspect Ratio
