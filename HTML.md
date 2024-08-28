@@ -56,8 +56,13 @@
 
 [Pa11y - Github](https://github.com/pa11y/pa11y)
 
+[Creating a safe external HTML link - what's the deal with nofollow / noopener / norefferer ? - dev.to ](https://dev.to/tlakomy/creating-a-safe-external-html-link-whats-the-deal-with-nofollow-noopener-norefferer--5a4i)
+
+[Creating Web Accessibility Series' Articles - dev.to ](https://dev.to/frontend_jedi/series/21863)
 
 [Source Medium - Author- Nick George Considered harmful: do not use disabled or readonly input attributes as default](https://medium.com/@izzmo/anti-pattern-using-disabled-or-read-only-for-form-input-e2c24c669f5b)
+[ TPGi - Fieldsets, Legends and Screen Readers again](https://www.tpgi.com/fieldsets-legends-and-screen-readers-again/)
+
 
 
 ### Images - Responsive + Aspect Ratio
