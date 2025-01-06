@@ -47,6 +47,8 @@
 
 [PointNorth]http://pointnorth.io/#north 
 
+[W3C - ARIA Authoring Practices Guide (APG) ](https://www.w3.org/WAI/ARIA/apg/patterns/)
+
 
 [WEBAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
@@ -71,6 +73,7 @@
 [Image Placeholders| Generator](https://loremipsum.io/21-of-the-best-placeholder-image-generators/)
 [Image Cropper](https://www.iloveimg.com/crop-image)
 [YTube Channel-Dave Gray = BackgroundImages & Reponsive Images](https://www.youtube.com/watch?v=cLyzBfXI0I0)
+[PX to REM Converter]( https://nekocalc.com/px-to-rem-converter)
 #### Stacked Images
 
 []https://bricampgomez.com/blog/how-to-overlap-images-in-css/ 
@@ -104,15 +107,24 @@
 [Houdini: Basic Demo](https://codepen.io/cferdinandi/pen/JeByZQ)
 ...
 
-[Houdini: Accordion](https://codepen.io/cferdinandi/pen/PxBKxp)
+[Houdini: Accordion](https://codepen.io/cferdinandi/pen/PxBK xp)
 
 
-[Free Font Libaray - Fontshare](https://www.fontshare.com/)
+[Free Font Libray - Fontshare](https://www.fontshare.com/)
 
 [fontawesomeicons - free icons](https://fontawesomeicons.com/svg/icons)
 
-
+[Tables.io](https://www.htmltables.io/)
 # Tutorials On Responsive Imgs
 
 [Responsive and Accessible Navigation (HTML, CSS, Vanilla JS) - YTC= andrew Ladd](https://www.youtube.com/watch?v=IdZ-ZHLyEHs)
 [Styling Images As Polaroids With CSS | HTML, CSS Tutorial - YTC = Coding Artist](https://www.youtube.com/watch?v=XqVfFTQWkKA)
+
+
+
+
+Units Converter 
+[nekoCalc - Online Calulator](https://nekocalc.com)
+[https://nekocalc.com/px-to-rem-converter](PX to REM Converter)
+
+
