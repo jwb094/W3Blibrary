@@ -8,7 +8,7 @@ PHP / Config
 helpfups tips for PHP
 
 * Try not use Else in if statement\
-* Functiuons should only do one thing
+* Functions should only do one thing
 * Never Abbrevation 
 * Be fribost  
 * 10 min Pre Work mindset
@@ -26,8 +26,25 @@ helpfups tips for PHP
 
 .htaccess
 
-https://htaccess.madewithlove.com/#top 
+[https://htaccess.madewithlove.com/#top](htacess - regex tool for http apache) 
 
-https://www.hongkiat.com/blog/guide-to-htaccess/ 
+[https://www.hongkiat.com/blog/guide-to-htaccess/](hongkiat:guide-to-htaccess) 
 
-https://httpd.apache.org/docs/2.4/rewrite/intro.html 
+[https://httpd.apache.org/docs/2.4/rewrite/intro.html](apache - rewrite rules)
+
+
+#### Sandbox - Online Playground
+[https://onlinephp.io/](OnlinePHP)
+
+
+#### PHP 8 Features
+
+[PHP 8: the null safe operator - stitcher-io](https://stitcher.io/blog/php-8-nullsafe-operator)
+[PHP - Null Coalescing Operator - tutorialpoint](https://www.tutorialspoint.com/php/php_null_coalescing_operator.htm)
+
+
+
+#####  Lavarel
+[Laravel Herd](https://herd.laravel.com/)
+
+[Laravel Documentation - github](https://github.com/laravel/docs)
