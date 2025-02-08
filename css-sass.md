@@ -31,12 +31,20 @@ CSS/SCSS/SASS cheats sheet
 * [Animating with Clip-Path | CSS-Tricks : clip-path is one of those CSS properties we generally know is there but might not reach for often for whatever reason. It’s a little intimidating in the sense](https://css-tricks.com/animating-with-clip-path/)
 
 
+
+* [Flexbox Common Layouts W/ examples - tobiasahlin.cvom](https://tobiasahlin.com/blog/common-flexbox-patterns/#stretch-middle-fixed-spacing)
+
+
+* [Flexbox layout examples - Quackit](https://www.quackit.com/html/templates/css_flexbox_templates.cfm)
+
+* [Grid layout examples - Quackit](https://www.quackit.com/html/templates/css_grid_templates.cfm)
+
 * [Flexbox - Codrops](https://tympanus.net/codrops/css_reference/flexbox/)
 
 * [CSS Entries - Codrops](https://tympanus.net/codrops/css_reference/)
 
 [* An Interactive Guide to Keyframe Animations :CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use the...](https://www.joshwcomeau.com/animation/keyframe-animations/)
-
+`
 * [A Continuous Image Ticker Built With Pure CSS – Nolte :When working on a continuous image ticker slider for a new project I was surprised to find no JavaScript slider libraries which support this feature. After some back and forth with my designer on s...](https://nolte.io/a-continuous-image-ticker-built-with-pure-css)
 
 * [Practical CSS Scroll Snapping | CSS-Tricks : CSS scroll snapping allows you to lock the viewport to certain elements or locations after a user has finished scrolling. It’s great for building interactions](https://css-tricks.com/practical-css-scroll-snapping/)
